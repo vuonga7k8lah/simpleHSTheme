@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
 	<meta charset="utf-8">
 	<link href="/favicon.ico" rel="icon">
@@ -17,4 +18,5 @@
 
 	<?php wp_head(); ?>
 </head>
-<body>
+
+<body id="root">
